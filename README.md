@@ -107,7 +107,7 @@ npm start
 
 ## 🌐 Deployment
 
-### Netlify
+### Vercel
 
 1. Build the project:
 
